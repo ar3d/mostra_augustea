@@ -1,0 +1,2657 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 44,
+          "y": 370,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\" color=\"#000000\"><b>Mostra Augustea della Romanità</b></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 92,
+          "y": 276,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\" color=\"#000000\">23 settembre 1937 - 23 settembre 1938</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "x": 167,
+      "y": 158
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mostra_augustea/immagini/La_Mostra_Augustea_della_Romanita_radiogramma.jpg",
+          "type": "Image",
+          "x": -122,
+          "y": -7,
+          "scale": {
+            "x": 0.7496740547588006,
+            "y": 0.7496740547588006,
+            "width": 1150,
+            "height": 780.4106910039113
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 178,
+      "y": 156
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 22,
+          "y": 189,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#000000\"><font face=\"Lato\">Tra retorica <br>di regime&nbsp;<br></font>e innovazione <br>museografica</font><br>",
+          "selected": false
+        },
+        {
+          "src": "https://ar3d.github.io/mostra_augustea/immagini/locandina.jpg",
+          "type": "Image",
+          "x": 437,
+          "y": 0,
+          "scale": {
+            "x": 0.8342857142857143,
+            "y": 0.8342857142857143,
+            "width": 584,
+            "height": 767.5428571428572
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.56,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 363,
+      "y": 208
+    },
+    {
+      "components": [
+        {
+          "src": "https://www.youtube.com/watch?v=cneYAemeNqU&ab_channel=IstitutoLuceCinecitt%C3%A0",
+          "type": "Video",
+          "x": 0,
+          "y": 6,
+          "scale": {
+            "width": 1036.7918224093444,
+            "height": 758.4319417553193
+          },
+          "shortSrc": "cneYAemeNqU",
+          "videoType": "youtube",
+          "srcType": "yt",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 474,
+      "y": 268
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 59,
+          "y": 296,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#000000\" face=\"Lato\">La Mostra ebbe un forte impatto <br>sulla cultura di quegli anni&nbsp;</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.3,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 340,
+      "y": 357
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 31,
+          "y": 115,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#000000\" face=\"Lato\">«La Mostra è veramente uno splendidissimo <br>corso di Storia Romana, tale che non ho potuto <br>mai fare agli studenti miei. <br>La combinazione di monumenti e testi dà <br>una vivida idea dello sviluppo di questo <br>fenomeno unico nel Mondo, che è la <br>formazione dell’Impero Romano.»</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 37,
+          "y": 564,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#000000\" face=\"Lato\">Michael I. Rostovtzef citato in G.Q. Giglioli, \"Mostra Augustea della Romanità. <br>Relazione Morale e Finanziaria (1932-1938)\", Roma 1942</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 201,
+      "y": 321
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 31,
+          "y": 92,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#000000\" face=\"Lato\">«È veramente una rievocazione fatta in modo <br>magistrale della romanità in tante sue <br>manifestazioni. […]. <br>Sono sicuro che la Mostra apporterà un <br>contributo assai apprezzabile nella cultura <br>di tutti i popoli che da Roma più o meno <br>direttamente ed in più o meno larga misura <br>trassero la loro civiltà».</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 38,
+          "y": 589,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#000000\" face=\"Lato\">Albert W. Van Buren citato in G.Q. Giglioli, \"Mostra Augustea della Romanità. <br>Relazione Morale e Finanziaria (1932-1938)\", Roma 1942</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.47,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 459,
+      "y": 387
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 14,
+          "y": 18,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#000000\" face=\"Lato\">«Disposizione varia, moderna, originale, quasi&nbsp;mai ingombrante, <br>sapientemente illuminata,&nbsp;o a giorno o dal basso, perfettamente <br>chiara e&nbsp;visibile in ogni suo punto. I monumenti si&nbsp;alternano con <br>le iscrizioni, le statue con i grandi&nbsp;fregi marmorei. Il tutto <br>commentato via via da&nbsp;scelte e precise leggende (sic), avvivato <br>da&nbsp;visioni fotografiche, diorami, fotomontaggi che&nbsp;ora integrano <br>il&nbsp;monumento, ora ne danno&nbsp;la cornice e lo sfondo. […].&nbsp;Non è la <br>mastodontica esposizione universale,&nbsp;impossibile a&nbsp;visitarsi [...]. <br>Si può percorrere in qualche ora, e tutti ne devono&nbsp;riportare una <br>somma di utili insegnamenti e in particolare una&nbsp;impressione <br>unitaria. Anche il dotto, l’archeologo di professione,&nbsp;che ha visto <br>tante volte queste cose nei libri, si prepari a gradite&nbsp;sorprese, a <br>colmare più di una lacuna insospettata; almeno&nbsp;riconoscerà che <br>altro è vedersi vivo e parlante dinanzi il&nbsp;monumento, riprodotto <br>con scrupolosa fedeltà, perché sia tutto&nbsp;alla sua portata, e altro <br>è averlo visto in pianta, in sezione, in alzati&nbsp;sopra la carta, magari <br>in fotografia a colori.&nbsp;</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 190,
+      "y": 410
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 36,
+          "y": 16,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#000000\" face=\"Lato\">In ogni caso è un lusso che finora nessuno si era potuto <br>permettere, di vedersi adunati insieme, da ogni parte del <br>mondo, quei monumenti che si potessero fra loro paragonare <br>o dovessero fra loro illustrarsi. Tornerà dunque gradito a tutti <br>l’apprendere che è già stato disposto che questa grande opera <br>di documentazione scientifica non vada dispersa dopo il breve <br>servizio della mostra della Romanità, ma chiuso l’anno <br>bimillenario di Augusto, sia integralmente allogata in quel <br>palazzo che sarà il vero, compiuto, e perpetuo museo <br>dell’Impero Romano.»</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 37,
+          "y": 478,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#000000\" face=\"Lato\">Padre Antonio Ferrua in \"La Civiltà Cattolica\", 18 dicembre 1937</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.42,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 267,
+      "y": 445
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mostra_augustea/immagini/sala_augusto_2.png",
+          "type": "Image",
+          "x": -335,
+          "y": -169,
+          "scale": {
+            "x": 1.0431034482758623,
+            "y": 1.0431034482758623,
+            "width": 1694.0000000000005,
+            "height": 1099.4310344827588
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.28,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "x": 317,
+      "y": 397
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 330,
+          "y": 265,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#000000\"><font face=\"Lato\">La genesi<br></font>della Mostra</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 543,
+      "y": 440
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mostra_augustea/immagini/augusto.png",
+          "type": "Image",
+          "x": 413,
+          "y": -30,
+          "scale": {
+            "x": 0.69,
+            "y": 0.69,
+            "width": 621,
+            "height": 800.4
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 67,
+          "y": 109,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\" color=\"#000000\">Agli inizi degli anni '30 <br>del '900 comincia a <br>prendere forma l'idea di<br>\"festeggiare\" «un&nbsp;nostro <br>Grande, che portò la <br>nostra Nazione al più alto <br>fastigio che un&nbsp;popolo <br>abbia mai raggiunto e <br>riunì nella sua persona <br>i più alti destini della <br>sua stirpe: Augusto».&nbsp; &nbsp;&nbsp;<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.29,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "x": 712,
+      "y": 458
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mostra_augustea/immagini/gigliotti_4.png",
+          "type": "Image",
+          "x": 499,
+          "y": 52,
+          "scale": {
+            "x": 0.8541666666666666,
+            "y": 0.8541666666666666,
+            "width": 492,
+            "height": 683.3333333333333
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 41,
+          "y": 81,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\" color=\"#000000\">Così Giulio Quirino Giglioli<br>descrive la nascita della <br>della Mostra Augustea <br>della Romanità in occasione <br>del bimillenario <br>della nascita di Augusto<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 12,
+      "selected": false,
+      "active": false,
+      "x": 605,
+      "y": 312
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 42,
+          "y": 19,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#000000\" face=\"Lato\">«Quando tre anni fa [nel 1930] ebbi l’onore di richiamare <br>per primo l’attenzione del Congresso di Studi Romani <br>sul bimillenario augusteo che si compirà il 23 settembre <br>1938, tra le varie manifestazioni da me proposte nell’ordine <br>del giorno che fu votato all’unanimità dal Congresso stesso <br>[…] non era compresa la Mostra Augustea della Romanità […]. <br>Fu solo in seguito che si concretò in me l’idea dell’importanza <br>singolare che una mostra della Romanità poteva assumere <br>in occasione del bimillenario della nascita del fondatore <br>dell’Impero e tale idea ebbi l’onore di manifestare a <br>S.E. il Capo del Governo in un’udienza che mi concedé <br>il 18 maggio dell’anno passato [1932]. Con la visione del <br>suo genio il Duce […] fece Sue le proposte invitandomi <br>a concretare il programma, […] pubblicato integralmente <br>nel comunicato alla stampa del 25 giugno 1932.»</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 45,
+          "y": 685,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#000000\" face=\"Lato\">G.Q. Giglioli,&nbsp; \"III Congresso Nazionale di Studi Romani\", <br>relazione nella seduta del 24 aprile 1933</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.29,
+      "index": 13,
+      "selected": false,
+      "active": false,
+      "x": 832,
+      "y": 415
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 101,
+          "y": 200,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#000000\" face=\"Lato\">[...]l’ordine del Duce e la nostra intenzione <br>È DI FARE UNA MOSTRA NON UN’ESPOSIZIONE: <br>quindi, […] non una raccolta del maggior numero di <br>oggetti […];&nbsp;ma appunto una Mostra […], come è quella <br>della Rivoluzione Fascista che tutti avrete visitato, <br>uscendone tutti pieni di ammirazione e — diciamolo <br>altamente — di profonda commozione […].&nbsp;</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 14,
+      "selected": false,
+      "active": false,
+      "x": 995,
+      "y": 510
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mostra_augustea/immagini/mostra_rivoluzione_fascista.jpg",
+          "type": "Image",
+          "x": -337,
+          "y": -1134,
+          "scale": {
+            "x": 2.129886506935687,
+            "y": 2.129886506935687,
+            "width": 1689,
+            "height": 2287.498108448928
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 15,
+      "selected": false,
+      "active": false,
+      "x": 1005,
+      "y": 511
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 22,
+          "y": 11,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#000000\" face=\"Lato\">[…] questa Mostra, se sarà naturalmente, come ha stabilito <br>il Duce, emanazione sia del Museo dell’Impero, sia dell’Istituto <br>degli Studi Romani, non costituirà un duplicato né della Mostra <br>del 1911, né del Museo dell’Impero che fondai nel 1926 per <br>raccogliere l’idea del Lanciani e del Boni, trasformandola <br>secondo i dettami della scienza moderna e le direttive del <br>Governo fascista […]. Tanto la Mostra del 1911 quanto il <br>Museo dell’Impero infatti sono ordinati geograficamente e <br>dopo i monumenti dell’Italia mostrano ad una ad una la serie <br>di tutte le province dell’Impero quali furono al momento del <br>suo maggior splendore, il 117 d.C., anno della morte di Trajano. <br>[…] Alla Mostra augustea invece […] l’Impero sarà una unità, <br>e tutte le province saranno presenti in ciascuna sezione, dando <br>ciascuna gli elementi per il quadro di ciascun aspetto della <br>vita antica.</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 23,
+          "y": 682,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#000000\" face=\"Lato\">G.Q. Giglioli, “La Mostra Augustea della Romanità” in “Atti del III Congresso Nazionale di<br>Studi Romani”, a cura di C. Galassi Paluzzi, I, Bologna 1934</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 16,
+      "selected": false,
+      "active": false,
+      "x": 1364,
+      "y": 300
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mostra_augustea/immagini/museo_impero.jpg",
+          "type": "Image",
+          "x": -453,
+          "y": -27,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 17,
+      "selected": false,
+      "active": false,
+      "x": 1351,
+      "y": 305
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 81,
+          "y": 200,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\" color=\"#000000\">La direzione della Mostra fu affidata <br>da Mussolini a Giulio Quirino Giglioli <br>che fu affiancato nell'incarico&nbsp;da un <br>Comitato Ordinatore composto da<br>Carlo Galassi Paluzzi, Pietro Romanelli e&nbsp;<br>Antonio Maria Colini<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.52,
+      "index": 18,
+      "selected": false,
+      "active": false,
+      "x": 1713,
+      "y": 522
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 53,
+          "y": 287,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#000000\" face=\"Lato\">Molti altri studiosi di valore furono coinvolti <br>in questa operazione allo stesso tempo <br>culturale e propagandistica.</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.52,
+      "index": 19,
+      "selected": false,
+      "active": false,
+      "x": 1617,
+      "y": 323
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 173,
+          "y": 266,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#000000\" face=\"Lato\">Alcuni erano ferventi fascisti, e lo <br>rimasero&nbsp;anche dopo la guerra, <br>come&nbsp;Massimo Pallottino.&nbsp;</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.52,
+      "index": 20,
+      "selected": false,
+      "active": false,
+      "x": 1571,
+      "y": 378
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 198,
+          "y": 322,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#000000\" face=\"Lato\">Qualcun altro, lo avrà fatto per <br>opportunismo accademico.</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.52,
+      "index": 21,
+      "selected": false,
+      "active": false,
+      "x": 1639,
+      "y": 421
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 29,
+          "y": 275,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#000000\" face=\"Lato\">La maggior parte, però, furono semplicemente <br>sedotti dalla possibilità di “educare le masse”, <br>di svolgere un ruolo incisivo nella società.</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.52,
+      "index": 22,
+      "selected": false,
+      "active": false,
+      "x": 1600,
+      "y": 495
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 34,
+          "y": 65,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#000000\" face=\"Lato\">Rileggendo i fatti sotto la lente della storia <br>«gli archeologi… furono insostituibili nella <br>delicata operazione di incastonare <br>visivamente e materialmente l’antico <br>nell’attuale, e contribuirono in modo <br>determinante all’elaborazione di quell’estetica <br>della romanità che era una componente <br>essenziale della rivoluzione antropologica <br>fascista».&nbsp;</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 35,
+          "y": 625,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#000000\" face=\"Lato\">Andrea Giardina e André Vauchez, “Il mito di Roma. Da Carlo Magno a Mussolini”, <br>Roma-Bari, Laterza, 2000</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.52,
+      "index": 23,
+      "selected": false,
+      "active": false,
+      "x": 1739,
+      "y": 394
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mostra_augustea/immagini/plastico.jpg",
+          "type": "Image",
+          "x": -337,
+          "y": -196,
+          "scale": {
+            "x": 1.2406015037593987,
+            "y": 1.2406015037593987,
+            "width": 1650.0000000000002,
+            "height": 1104.1353383458647
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 4,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.52,
+      "index": 24,
+      "selected": false,
+      "active": false,
+      "x": 1704,
+      "y": 473
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 230,
+          "y": 245,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font face=\"Lato\" color=\"#000000\">Gli obbiettivi della&nbsp;<br>Mostra Augustea<br>della Romanità<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 25,
+      "selected": false,
+      "active": false,
+      "x": 1566,
+      "y": 634
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 196,
+          "y": 73,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font face=\"Lato\" color=\"#000000\">Augusto e Mussolini</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 194,
+          "y": 195,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\" color=\"#000000\">La propaganda fascista&nbsp;<br>tra normalizzazione del<br>Regime e giustificazione&nbsp;<br>ideologica della politica<br>imperiale<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 26,
+      "selected": false,
+      "active": false,
+      "x": 1459,
+      "y": 676
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 35,
+          "y": 83,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\" color=\"#000000\">La Mostra nasce nel momento <br>di massimo consenso del Regime<br>che, dopo il movimentismo <br>rivoluzionario,&nbsp;cerca la <br>normalizzazione&nbsp;attraverso l'uso <br>di nuovi simboli&nbsp;decontestualizzati <br>e piegate alle&nbsp;esigenze della <br>propaganda.<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 27,
+      "selected": false,
+      "active": false,
+      "x": 1294,
+      "y": 713
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mostra_augustea/immagini/augustopola.jpg",
+          "type": "Image",
+          "x": -358,
+          "y": -25,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 28,
+      "selected": false,
+      "active": false,
+      "x": 1418,
+      "y": 674
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 11,
+          "y": 154,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\" color=\"#000000\">In questo processo di giustificazione <br>ideologica si inserisce la conquista <br>dell'Etiopia nel 1936 e la necessità <br>di avallare&nbsp;storicamente <br>l'aggressione.&nbsp;</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 29,
+      "selected": false,
+      "active": false,
+      "x": 1052,
+      "y": 815
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mostra_augustea/immagini/impero.jpg",
+          "type": "Image",
+          "x": -341,
+          "y": -87,
+          "scale": {
+            "x": 0.890625,
+            "y": 0.890625,
+            "width": 1710,
+            "height": 1194.328125
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.52,
+      "index": 30,
+      "selected": false,
+      "active": false,
+      "x": 1031,
+      "y": 796
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 166,
+          "y": 166,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font color=\"#000000\" face=\"Lato\">Un percorso iniziatico</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 45,
+          "y": 317,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#000000\" face=\"Lato\">L’estetizzazione della politica nella creazione <br>di eventi&nbsp;</font>spettacolari, con scenografie <br>magniloquenti, allo scopo di tenere le masse <br>in uno stato di continua&nbsp;effervescenza.<br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.29,
+      "index": 31,
+      "selected": false,
+      "active": false,
+      "x": 785,
+      "y": 878
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 46,
+          "y": 163,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\" color=\"#000000\">Gli archeologi, assieme a un folto gruppo di<br>architetti, scenografi, fotografi e a quello di<br>quelle&nbsp;ditte&nbsp;che lavoravano per il cinema e <br>il teatro,&nbsp;soprattutto negli ambienti del piano <br>nobile, costruirono una potente macchina <br>scenica&nbsp;in cui l'impero fascista era la naturale <br>evoluzione&nbsp;dell'impero romano.&nbsp;<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.81,
+      "index": 32,
+      "selected": false,
+      "active": false,
+      "x": 845,
+      "y": 963
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mostra_augustea/immagini/pianta_piano_nobile.png",
+          "type": "Image",
+          "x": 22,
+          "y": -9,
+          "scale": {
+            "x": 0.7025641025641025,
+            "y": 0.7025641025641025,
+            "width": 548,
+            "height": 784.7641025641025
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 583,
+          "y": 15,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#000000\" face=\"Lato\">PIANO NOBILE</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 583,
+          "y": 77,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 19,
+          "text": "<font color=\"#000000\" face=\"Lato\">Sala I - Atrio della Vittoria \n<br></font>Sala II - Sala dell'Impero \n<br>Sala III - Le origini di Roma \n<br>Sala IV - Dall'inizio della Repubblica al trionfo <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; su Cartagine \n<br>Sala V - L'espansione dello Stato romano <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; durante le guerre civili \n<br>Sala VI - Monumenti dell'età sillana \n<br>Sala VII - Giulio Cesare \n<br>Sala VIII - Poeti e scrittori di età augustea \n<br>Sala IX - La famiglia di Augusto \n<br>Sala X - Augusto \n<br>Sala XI - La vita di Augusto \n<br>Sala XII - Monumenti augustei in Italia \n<br>Sala XIII - La casa augustea \n<br>Sala XIV - Campania augustea \n<br>Sala XV - Monumenti augustei nelle province <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;dell'Impero \n<br>Sala XVI - Il culto di Augusto \n<br>Sala XVII - L'esercito \n<br>Sala XVIII - Le navi di Nemi \n<br>Sala XIX - La marina \n<br>Sala XX - Il diritto \n<br>Sala XXI - Magistrature e vita pubblica durante <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;l'Impero \n<br>Sala XXII - L'Impero da Tiberio agli Antonini \n<br>Sala XXIII - I famigli imperiali \n<br>Sala XXIV - La difesa dell'Impero \n<br>Sala XXV - Il Cristianesimo \n<br>Sala XXVI - Immortalità dell'idea di Roma&nbsp;<br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 8,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 33,
+      "selected": false,
+      "active": false,
+      "x": 400,
+      "y": 1020
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 24,
+          "y": 211,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\" color=\"#000000\">Fulcro di questo percorso iniziatico<br>era la sala di Augusto progettata <br>dagli&nbsp;architetti Paniconi e Pediconi, <br>allievi di Marcello Piacentini.<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 34,
+      "selected": false,
+      "active": false,
+      "x": 252,
+      "y": 906
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mostra_augustea/immagini/sala_augusto.jpg",
+          "type": "Image",
+          "x": 211,
+          "y": -2,
+          "scale": {
+            "x": 0.38446475195822455,
+            "y": 0.38446475195822455,
+            "width": 589,
+            "height": 771.2362924281985
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.29,
+      "index": 35,
+      "selected": false,
+      "active": false,
+      "x": 66,
+      "y": 911
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mostra_augustea/immagini/sala_augusto_2.png",
+          "type": "Image",
+          "x": -5,
+          "y": 46,
+          "scale": {
+            "x": 0.6323891625615764,
+            "y": 0.6323891625615764,
+            "width": 1027,
+            "height": 666.5381773399015
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.62,
+      "index": 36,
+      "selected": false,
+      "active": false,
+      "x": 101,
+      "y": 856
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 25,
+          "y": 184,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\" color=\"#000000\">Degli stessi architetti è anche <br>la sala dell'impero, un cannocchiale<br>prospettico che unisce visivamente<br>l'atrio della Vittoria dell'architetto<br>Gismondi alla sala di Augusto.<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 37,
+      "selected": false,
+      "active": false,
+      "x": 255,
+      "y": 1015
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mostra_augustea/immagini/atrio_vittoria.jpg",
+          "type": "Image",
+          "x": 103,
+          "y": 3,
+          "scale": {
+            "x": 0.515032679738562,
+            "y": 0.515032679738562,
+            "width": 787.9999999999999,
+            "height": 749.8875816993464
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.13,
+      "index": 38,
+      "selected": false,
+      "active": false,
+      "x": 77,
+      "y": 968
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mostra_augustea/immagini/sala_ingresso.jpg",
+          "type": "Image",
+          "x": 211,
+          "y": -3,
+          "scale": {
+            "x": 0.37516339869281046,
+            "y": 0.37516339869281046,
+            "width": 574,
+            "height": 765.7084967320261
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.05,
+      "index": 39,
+      "selected": false,
+      "active": false,
+      "x": 77,
+      "y": 1018
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 29,
+          "y": 75,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\" color=\"#000000\">Infine, attraverso la sala <br>dell'esercito, sempre di Paniconi <br>e Pediconi, si arrivava alle sale che<br>più si rifanno a quell'estetica del<br>potere teorizzata da Walter <br>Benjamin ne \"L’opera d’arte&nbsp;<br>nell’epoca&nbsp;della sua riproducibilità <br>tecnica\".<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 40,
+      "selected": false,
+      "active": false,
+      "x": 256,
+      "y": 860
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mostra_augustea/immagini/sala_esercito_2.jpg",
+          "type": "Image",
+          "x": 23,
+          "y": -1,
+          "scale": {
+            "x": 0.6379647749510763,
+            "y": 0.6379647749510763,
+            "width": 978,
+            "height": 773.2133072407045
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.44,
+      "index": 41,
+      "selected": false,
+      "active": false,
+      "x": 154,
+      "y": 789
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 14,
+          "y": 193,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\" color=\"#000000\">La sala del cristianesimo&nbsp;e quella <br>dell'immortalità&nbsp;dell'idea di Roma,<br>indicata&nbsp;anche come Romanità e&nbsp;<br>Fascismo, progettate dall'architetto<br>Apollonj<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 42,
+      "selected": false,
+      "active": false,
+      "x": 171,
+      "y": 1100
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mostra_augustea/immagini/sala_cristianesimo.jpg",
+          "type": "Image",
+          "x": -4,
+          "y": 7,
+          "scale": {
+            "x": 0.48402255639097747,
+            "y": 0.48402255639097747,
+            "width": 1030,
+            "height": 753.1390977443609
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.16,
+      "index": 43,
+      "selected": false,
+      "active": false,
+      "x": 66,
+      "y": 1071
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mostra_augustea/immagini/sala_immortalita_roma.jpg",
+          "type": "Image",
+          "x": 196,
+          "y": -7,
+          "scale": {
+            "x": 0.38722294654498046,
+            "y": 0.38722294654498046,
+            "width": 594,
+            "height": 774.8331160365059
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.22,
+      "index": 44,
+      "selected": false,
+      "active": false,
+      "x": 77,
+      "y": 1124
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mostra_augustea/immagini/sala_immortalita_roma_2.jpg",
+          "type": "Image",
+          "x": 1,
+          "y": 29,
+          "scale": {
+            "x": 0.5429936305732485,
+            "y": 0.5429936305732485,
+            "width": 1023.0000000000001,
+            "height": 701.547770700637
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.08,
+      "index": 45,
+      "selected": false,
+      "active": false,
+      "x": 68,
+      "y": 1177
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 25,
+          "y": 39,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\" color=\"#000000\">Una impostazione più innovativa <br>presentava&nbsp;la sala delle origini di <br>Roma, la prima del percorso a tema<br>storico.<br>Allestita da&nbsp;Veniero Colasanti <br>e Ludovico Quaroni giocava&nbsp;<br>sul confronto tra le legende della&nbsp;<br>fondazione di Roma e la verità<br>storica dei dati archeologici.<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 46,
+      "selected": false,
+      "active": false,
+      "x": 342,
+      "y": 1116
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mostra_augustea/immagini/quaroni_re_di_roma.jpg",
+          "type": "Image",
+          "x": -1,
+          "y": -2,
+          "scale": {
+            "x": 0.8489626556016597,
+            "y": 0.8489626556016597,
+            "width": 1023,
+            "height": 766.6132780082987
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.35,
+      "index": 47,
+      "selected": false,
+      "active": false,
+      "x": 102,
+      "y": 1232
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 20,
+          "y": 107,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\" color=\"#000000\">Quinta scenica degli eventi pubblici <br>legati alla mostra era la facciata&nbsp;<br>effimera dell'architetto Scalpelli<br>che con linea semplici e <br>giustapposizione di volumi <br>semplifica il modello dell'Arco di<br>Costantino.<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 48,
+      "selected": false,
+      "active": false,
+      "x": 254,
+      "y": 1178
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mostra_augustea/immagini/ingresso.jpg",
+          "type": "Image",
+          "x": -37,
+          "y": -2,
+          "scale": {
+            "x": 0.9982638888888888,
+            "y": 0.9982638888888888,
+            "width": 1150,
+            "height": 769.6614583333333
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.09,
+      "index": 49,
+      "selected": false,
+      "active": false,
+      "x": 179,
+      "y": 1260
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 31,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\" color=\"#000000\">Molti degli architetti che <br>parteciparono all'allestimento<br>furono protagonisti dei concorsi<br>per l'esposizione universale del<br>1942 e si può ipotizzare che&nbsp;<br>proprio la Mostra Augustea<br>sia stata la palestra per quello stile&nbsp;<br>che coniuga Razionalismo e <br>Classicismo.<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.26,
+      "index": 50,
+      "selected": false,
+      "active": false,
+      "x": 338,
+      "y": 1356
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mostra_augustea/immagini/E42.jpg",
+          "type": "Image",
+          "x": -48,
+          "y": -179,
+          "scale": {
+            "x": 0.6335697399527187,
+            "y": 0.6335697399527187,
+            "width": 1072,
+            "height": 975.0638297872341
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.26,
+      "index": 51,
+      "selected": false,
+      "active": false,
+      "x": 343,
+      "y": 1372
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 33,
+          "y": 55,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font face=\"Lato\" color=\"#000000\">Le finalità didattiche&nbsp;della <br>mostra<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 33,
+          "y": 248,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font color=\"#000000\"><font face=\"Lato\">La mostra rappresenta un punto <br>di svolta nella museografia italiana<br></font>in quanto da un approccio <br>antiquario&nbsp;si passa ad organizzare <br>gli spazi e&nbsp;gli oggetti per \"educare <br>le masse\".</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 52,
+      "selected": false,
+      "active": false,
+      "x": 557,
+      "y": 1391
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 23,
+          "y": 161,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\" color=\"#000000\">La prima scelta che Giglioli dovette&nbsp;fu scegliere <br>tra esporre originali o&nbsp;copie.&nbsp;<br>Vista l'impossibilità di «far giungere&nbsp;a Roma <br>centinaia di tonnellate di&nbsp;pietra» si optò per la <br>produzione&nbsp;di calchi, plastici e riproduzioni&nbsp;<br>anche perchè questo materiale&nbsp;sarebbe <br>diventato proprietà dello&nbsp;stato italiano.<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.44,
+      "index": 53,
+      "selected": false,
+      "active": false,
+      "x": 768,
+      "y": 1389
+    },
+    {
+      "components": [
+        {
+          "src": "https://www.youtube.com/watch?v=86GpvnpMCts&ab_channel=IstitutoLuceCinecitt%C3%A0",
+          "type": "Video",
+          "x": 1,
+          "y": 18,
+          "scale": {
+            "width": 1020.972499304097,
+            "height": 742.4642064129648
+          },
+          "shortSrc": "86GpvnpMCts",
+          "videoType": "youtube",
+          "srcType": "yt",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 54,
+      "selected": false,
+      "active": false,
+      "x": 941,
+      "y": 1324
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 60,
+          "y": 164,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#000000\" face=\"Lato\">«Ciò [cioè l’uso dei calchi] può far subito <br>pensare a fredde e biancheggianti corsie <br>di un Museo di gessi, ma la supposizione <br>è nettamente smentita dai risultati ottenuti <br>patinando i calchi del colore originale dei <br>monumenti riprodotti».</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 61,
+          "y": 547,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#000000\" face=\"Lato\">M. Pallottino, “La Mostra Augustea della Romanità”, in «Capitolium», 10 ottobre 1937&nbsp;</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.44,
+      "index": 55,
+      "selected": false,
+      "active": false,
+      "x": 851,
+      "y": 1400
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mostra_augustea/immagini/calchi_2.jpg",
+          "type": "Image",
+          "x": 180,
+          "y": -1,
+          "scale": {
+            "x": 0.4124590163934426,
+            "y": 0.4124590163934426,
+            "width": 629,
+            "height": 763.8740983606557
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 5,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.44,
+      "index": 56,
+      "selected": false,
+      "active": false,
+      "x": 776,
+      "y": 1407
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 26,
+          "y": 25,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#000000\" face=\"Lato\">Tutti i grandi Musei non solo d’Italia, ma <br>dell’Estero, anche di città moderne sorte in <br>territori fuori dell’Impero […], furono esplorati <br>a questo scopo; poi si passò alle principali <br>collezioni private, come le insigni dei Torlonia <br>a Roma; infine a tutte le piccole raccolte e alla <br>ricerca dei pezzi isolati, mentre naturalmente <br>uguale ricerca si compiva per i grandi centri di <br>scavo, per i monumenti architettonici ancora <br>esistenti in questo o quel paese, e infine per <br>l’immensa serie delle monete.</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 30,
+          "y": 682,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#000000\" face=\"Lato\">G.Q. Giglioli, “Presentazione”, in “Mostra Augustea della Romanità. Catalogo”, I, <br>a cura di R. Vighi - C. Caprino, Roma 1938&nbsp;</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.26,
+      "index": 57,
+      "selected": false,
+      "active": false,
+      "x": 1054,
+      "y": 1479
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mostra_augustea/immagini/calchi_1.jpg",
+          "type": "Image",
+          "x": 0,
+          "y": 15,
+          "scale": {
+            "x": 0.6651465798045603,
+            "y": 0.6651465798045603,
+            "width": 1021,
+            "height": 720.3537459283388
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.26,
+      "index": 58,
+      "selected": false,
+      "active": false,
+      "x": 1038,
+      "y": 1481
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mostra_augustea/immagini/calchi_3.jpg",
+          "type": "Image",
+          "x": -1,
+          "y": 51,
+          "scale": {
+            "x": 0.6657980456026059,
+            "y": 0.6657980456026059,
+            "width": 1022.0000000000001,
+            "height": 667.7954397394137
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.17,
+      "index": 59,
+      "selected": false,
+      "active": false,
+      "x": 1157,
+      "y": 1316
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 67,
+          "y": 280,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\" color=\"#000000\">L'organizzazione degli spazi <br>espositivi per sezioni tematiche</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 60,
+      "selected": false,
+      "active": false,
+      "x": 1402,
+      "y": 1358
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 22,
+          "y": 82,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#000000\" face=\"Lato\">[…] essendo in ultima analisi il materiale a noi pervenuto quello <br>che il caso ha voluto conservare e far rinvenire, accade che di <br>un soggetto comune a tutto l’Impero la documentazione sia per <br>avventura restata in un sol caso, o che una testimonianza <br>trovata, per esempio, in Spagna, sia completata da un’altra <br>trovata in Romania, mentre un terzo pezzo trovato a Roma o a <br>Pompei serve per l’esatta interpretazione degli altri due. <br>Raggruppando questi pezzi in tal modo, si son venute a formare <br>sezioni omogenee, che possano appagare il desiderio di un <br>visitatore moderno dedito a questa o a quella professione, <br>cultore di questi o di quegli studi[…].&nbsp;</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 26,
+          "y": 605,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font color=\"#000000\"><font face=\"Lato\">G.Q. Giglioli, “Presentazione”, in “Mostra Augustea della Romanità. Catalogo”, I,\n<br></font>a cura di R. Vighi - C. Caprino, Roma 1938&nbsp;</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.61,
+      "index": 61,
+      "selected": false,
+      "active": false,
+      "x": 1460,
+      "y": 1212
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mostra_augustea/immagini/pianta_seminterrato.png",
+          "type": "Image",
+          "x": -25,
+          "y": 96,
+          "scale": {
+            "x": 0.8790931989924433,
+            "y": 0.8790931989924433,
+            "width": 698,
+            "height": 527.455919395466
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 625,
+          "y": 119,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 19,
+          "text": "<font color=\"#000000\" face=\"Lato\">Sala XXVII - Impianti igienici \n<br></font>Sala XXVIII - Sala di vidimazione e ufficio<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;postale \n<br>Sale XXIX - XXX - Teatri, anfiteatri e circhi \n<br>Sala XXXI - Foro di Thugga \n<br>Sala XXXII - Fori, templi e basiliche \n<br>Sala XXXIII - Città romane dell'Impero \n<br>Sala XXXIV - Porte di Spello \n<br>Sala XXXV - Vie e mezzi di comunicazione (I) \n<br>Sala XXXVI - Cippi di confine \n<br>Sala XXXVII - Vie e mezzi di comunicazione (II) \n<br>Sala XXXVIII - Case e giardini \n<br>Sala XXXIX - Ville imperiali e private \n<br>Sala XL - Palazzi imperiali, case di abitazione <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; intensiva, vie monumentali \n<br>Sala XLI - Città romane d'Italia \n<br>Sala XLII - Acquedotti, terme, ninfei e fontane \n<br>Sala XLIII - L'ingegneria \n<br>Sala XLIV - Cave e miniere \n<br>Sala XLV - Ospedale \n<br>Sala XLVI - Mercati e magazzini \n<br>Sala XLVII - I porti dell'Impero \n<br>Sala XLVIII - Acropoli di Baalbeck \n<br>Sale XLIX - L - Monumenti sepolcrali \n<br>Sala LI - Scala della colonna di Magonza<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (ambiente di passaggio)&nbsp;<br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 86,
+          "y": 631,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#000000\" face=\"Lato\">Pianta piano seminterrato</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 4,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.61,
+      "index": 62,
+      "selected": false,
+      "active": false,
+      "x": 1519,
+      "y": 1265
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mostra_augustea/immagini/pianta_secondo_piano.png",
+          "type": "Image",
+          "x": -16,
+          "y": -22,
+          "scale": {
+            "x": 0.8433382137628112,
+            "y": 0.8433382137628112,
+            "width": 576,
+            "height": 790.207906295754
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 580,
+          "y": 112,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Lato\" color=\"#000000\">Pianta secondo piano</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 580,
+          "y": 190,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 19,
+          "text": "<font color=\"#000000\" face=\"Lato\">Sale LII - LIII - L'industria e l'artigianato \n<br></font>Sale LIV – LV – LVI – LVII – LVIII - LIX - La religione \n<br>Sala LX - Ricostruzione della Roma Imperiale \n<br>Sale LXI - LXII - La vita famigliare \n<br>Sala LXIII - La moda a Roma \n<br>Sala LXIV - La moda nelle province \n<br>Sala LXV - La scuola e le organizzazioni giovanili \n<br>Sala LXVI - Il ritratto \n<br>Sala LXVII - Le lettere \n<br>Sala LXVIII - Le biblioteche \n<br>Sala LXIX - Le scienze \n<br>Sala LXX - La musica \n<br>Sale LXXI - LXXII Le arti figurative \n<br>Sala LXXIII - L'agricoltura e l'agrimensura \n<br>Sala LXXIV - Vino e pane \n<br>Sala LXXV - Caccia, pesca e alimentazione \n<br>Sale LXXVI - LXXVII - La medicina e la farmacia \n<br>Sala LXVIII - La vita economica e finanziaria \n<br>Sala LXIX - I giochi \n<br>Sala LXXX - L'illuminazione \n<br>Sala LXXXI - L'assistenza sociale \n<br>Sale LXXXII - I tesori di argenterie<br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 4,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.17,
+      "index": 63,
+      "selected": false,
+      "active": false,
+      "x": 1444,
+      "y": 1495
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 158,
+          "y": 287,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\" color=\"#000000\">Ricostruzione di una casa <br>di età augustea</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 64,
+      "selected": false,
+      "active": false,
+      "x": 1708,
+      "y": 1482
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mostra_augustea/immagini/casa_augusto.jpg",
+          "type": "Image",
+          "x": -2,
+          "y": -3,
+          "scale": {
+            "x": 0.5662049861495845,
+            "y": 0.5662049861495845,
+            "width": 1022,
+            "height": 776.2670360110803
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 65,
+      "selected": false,
+      "active": false,
+      "x": 1712,
+      "y": 1479
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mostra_augustea/immagini/casa_augusto_3.jpg",
+          "type": "Image",
+          "x": 3,
+          "y": -8,
+          "scale": {
+            "x": 0.5373684210526316,
+            "y": 0.5373684210526316,
+            "width": 1021,
+            "height": 778.1094736842106
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.44,
+      "index": 66,
+      "selected": false,
+      "active": false,
+      "x": 1746,
+      "y": 1361
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 126,
+          "y": 242,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\" color=\"#000000\">Plastico della Roma imperiale<br>progettato dall'architetto<br>Gismondi<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.17,
+      "index": 67,
+      "selected": false,
+      "active": false,
+      "x": 1781,
+      "y": 1225
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mostra_augustea/immagini/plastici.jpg",
+          "type": "Image",
+          "x": 2,
+          "y": 3,
+          "scale": {
+            "x": 0.6644951140065146,
+            "y": 0.6644951140065146,
+            "width": 1019.9999999999999,
+            "height": 768.1563517915309
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.17,
+      "index": 68,
+      "selected": false,
+      "active": false,
+      "x": 1780,
+      "y": 1231
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 234,
+          "y": 335,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\" color=\"#000000\">Sala degli acquedotti</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.44,
+      "index": 69,
+      "selected": false,
+      "active": false,
+      "x": 1678,
+      "y": 1142
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mostra_augustea/immagini/sala_acquedotti.jpg",
+          "type": "Image",
+          "x": -2,
+          "y": 7,
+          "scale": {
+            "x": 0.44886363636363635,
+            "y": 0.44886363636363635,
+            "width": 1027,
+            "height": 757.6818181818181
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.44,
+      "index": 70,
+      "selected": false,
+      "active": false,
+      "x": 1677,
+      "y": 1140
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 80,
+          "y": 359,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\" color=\"#000000\">Sala dei teatri, anfiteatri e circhi</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.26,
+      "index": 71,
+      "selected": false,
+      "active": false,
+      "x": 1540,
+      "y": 1072
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mostra_augustea/immagini/sala_plastici_teatri.jpg",
+          "type": "Image",
+          "x": -4,
+          "y": 28,
+          "scale": {
+            "x": 0.45096322241681264,
+            "y": 0.45096322241681264,
+            "width": 1030,
+            "height": 708.9141856392295
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.26,
+      "index": 72,
+      "selected": false,
+      "active": false,
+      "x": 1541,
+      "y": 1074
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 92,
+          "y": 318,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\" color=\"#000000\">Sala delle vie di comunicazione</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.26,
+      "index": 73,
+      "selected": false,
+      "active": false,
+      "x": 1384,
+      "y": 1060
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mostra_augustea/immagini/sala_strade.jpg",
+          "type": "Image",
+          "x": 189,
+          "y": 2,
+          "scale": {
+            "x": 0.6644736842105263,
+            "y": 0.6644736842105263,
+            "width": 606,
+            "height": 765.4736842105264
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.26,
+      "index": 74,
+      "selected": true,
+      "active": true,
+      "x": 1391,
+      "y": 1058
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 52,
+          "y": 270,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font face=\"Lato\" color=\"#000000\">Venafro alla Mostra Augustea <br>della Romanità&nbsp;</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.17,
+      "index": 75,
+      "selected": false,
+      "active": false,
+      "x": 1614,
+      "y": 888
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mostra_augustea/immagini/venafro.jpg",
+          "type": "Image",
+          "x": -2,
+          "y": 69,
+          "scale": {
+            "x": 1.6759410801963994,
+            "y": 1.6759410801963994,
+            "width": 1024,
+            "height": 631.8297872340426
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 4,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.17,
+      "index": 76,
+      "selected": false,
+      "active": false,
+      "x": 1601,
+      "y": 902
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 95,
+          "y": 165,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\" color=\"#000000\">Due sono i pezzi che furono <br>scelti&nbsp;per interessameto del <br>Soprintendente alle Antichità <br>della Campania e del Molise <br>Amedeo Maiuri</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.44,
+      "index": 77,
+      "selected": false,
+      "active": false,
+      "x": 1901,
+      "y": 977
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mostra_augustea/immagini/maiuri.jpg",
+          "type": "Image",
+          "x": -8,
+          "y": 0,
+          "scale": {
+            "x": 1.8035087719298246,
+            "y": 1.8035087719298246,
+            "width": 1028,
+            "height": 768.2947368421053
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 4,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.44,
+      "index": 78,
+      "selected": false,
+      "active": false,
+      "x": 1899,
+      "y": 975
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 123,
+          "y": 234,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\" color=\"#000000\">La ricostruzione della ruota <br>idraulica di Venafro<br>efeguita da Luigi Jacono<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 79,
+      "selected": false,
+      "active": false,
+      "x": 2270,
+      "y": 1083
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mostra_augustea/immagini/ruota.png",
+          "type": "Image",
+          "x": 222,
+          "y": -60,
+          "scale": {
+            "x": 0.42500000000000004,
+            "y": 0.42500000000000004,
+            "width": 544,
+            "height": 816.0000000000001
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 4,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 80,
+      "selected": false,
+      "active": false,
+      "x": 2184,
+      "y": 1033
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 109,
+          "y": 247,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\" color=\"#000000\">Il tracciato dell'acquedotto <br>augusteo di Venafro eseguito&nbsp;<br>da Frediano Frediani<br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 81,
+      "selected": false,
+      "active": false,
+      "x": 2463,
+      "y": 1022
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mostra_augustea/immagini/tracciato_acquedotto.png",
+          "type": "Image",
+          "x": 225,
+          "y": -1,
+          "scale": {
+            "x": 0.27,
+            "y": 0.27,
+            "width": 540,
+            "height": 771.3900000000001
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.39,
+      "index": 82,
+      "selected": false,
+      "active": false,
+      "x": 2384,
+      "y": 978
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mostra_augustea/immagini/particolari.png",
+          "type": "Image",
+          "x": 157,
+          "y": 4,
+          "scale": {
+            "x": 0.49032258064516127,
+            "y": 0.49032258064516127,
+            "width": 684,
+            "height": 748.2322580645161
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.74,
+      "index": 83,
+      "selected": false,
+      "active": false,
+      "x": 2509,
+      "y": 967
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/mostra_augustea/immagini/ponte_canale.png",
+          "type": "Image",
+          "x": 152,
+          "y": -4,
+          "scale": {
+            "x": 0.5257966616084977,
+            "y": 0.5257966616084977,
+            "width": 693,
+            "height": 764.5083459787556
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.38,
+      "index": 84,
+      "selected": false,
+      "active": false,
+      "x": 2510,
+      "y": 1086
+    }
+  ],
+  "activeSlide": {
+    "components": [
+      {
+        "src": "https://ar3d.github.io/mostra_augustea/immagini/sala_strade.jpg",
+        "type": "Image",
+        "x": 189,
+        "y": 2,
+        "scale": {
+          "x": 0.6644736842105263,
+          "y": 0.6644736842105263,
+          "width": 606,
+          "height": 765.4736842105264
+        },
+        "imageType": "JPG",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": -0.26,
+    "index": 74,
+    "selected": true,
+    "active": true,
+    "x": 1391,
+    "y": 1058
+  },
+  "fileName": "mostra_augustea",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  },
+  "overviewX": 1288,
+  "overviewY": 825.5
+}
