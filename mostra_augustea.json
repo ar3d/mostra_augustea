@@ -35,8 +35,8 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 0,
-      "selected": false,
-      "active": false,
+      "selected": true,
+      "active": true,
       "x": 167,
       "y": 158
     },
@@ -112,17 +112,19 @@
     {
       "components": [
         {
-          "src": "https://www.youtube.com/watch?v=cneYAemeNqU&ab_channel=IstitutoLuceCinecitt%C3%A0",
+          "src": "https://ar3d.github.io/mostra_augustea/video/La_mostra_augustea_della_romanita.mp4",
           "type": "Video",
-          "x": 0,
-          "y": 6,
+          "x": 42,
+          "y": 7,
           "scale": {
-            "width": 1036.7918224093444,
-            "height": 758.4319417553193
+            "x": 2.08,
+            "y": 2.08,
+            "width": 936,
+            "height": 748.8000000000001
           },
-          "shortSrc": "cneYAemeNqU",
-          "videoType": "youtube",
-          "srcType": "yt",
+          "shortSrc": "https://ar3d.github.io/mostra_augustea/video/La_mostra_augustea_della_romanita.mp4",
+          "videoType": "html5",
+          "srcType": "video/mp4",
           "selected": false
         }
       ],
@@ -1657,7 +1659,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\" color=\"#000000\">La prima scelta che Giglioli dovette&nbsp;fu scegliere <br>tra esporre originali o&nbsp;copie.&nbsp;<br>Vista l'impossibilità di «far giungere&nbsp;a Roma <br>centinaia di tonnellate di&nbsp;pietra» si optò per la <br>produzione&nbsp;di calchi, plastici e riproduzioni&nbsp;<br>anche perchè questo materiale&nbsp;sarebbe <br>diventato proprietà dello&nbsp;stato italiano.<br></font>",
+          "text": "<font face=\"Lato\" color=\"#000000\">La prima scelta che Giglioli dovette&nbsp;fare fu<br>quella di esporre originali o&nbsp;copie.&nbsp;<br>Vista l'impossibilità di «far giungere&nbsp;a Roma <br>centinaia di tonnellate di&nbsp;pietra» si optò per la <br>produzione&nbsp;di calchi, plastici e riproduzioni&nbsp;<br>anche perchè questo materiale&nbsp;sarebbe <br>diventato proprietà dello&nbsp;stato italiano.<br></font>",
           "selected": false
         }
       ],
@@ -1675,17 +1677,19 @@
     {
       "components": [
         {
-          "src": "https://www.youtube.com/watch?v=86GpvnpMCts&ab_channel=IstitutoLuceCinecitt%C3%A0",
+          "src": "https://ar3d.github.io/mostra_augustea/video/Preparativi_per_la_mostra_augustea_della_romanita.mp4",
           "type": "Video",
-          "x": 1,
-          "y": 18,
+          "x": 38,
+          "y": 4,
           "scale": {
-            "width": 1020.972499304097,
-            "height": 742.4642064129648
+            "x": 2.0955555555555554,
+            "y": 2.0955555555555554,
+            "width": 942.9999999999999,
+            "height": 754.4
           },
-          "shortSrc": "86GpvnpMCts",
-          "videoType": "youtube",
-          "srcType": "yt",
+          "shortSrc": "https://ar3d.github.io/mostra_augustea/video/Preparativi_per_la_mostra_augustea_della_romanita.mp4",
+          "videoType": "html5",
+          "srcType": "video/mp4",
           "selected": false
         }
       ],
@@ -1780,7 +1784,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font color=\"#000000\" face=\"Lato\">Tutti i grandi Musei non solo d’Italia, ma <br>dell’Estero, anche di città moderne sorte in <br>territori fuori dell’Impero […], furono esplorati <br>a questo scopo; poi si passò alle principali <br>collezioni private, come le insigni dei Torlonia <br>a Roma; infine a tutte le piccole raccolte e alla <br>ricerca dei pezzi isolati, mentre naturalmente <br>uguale ricerca si compiva per i grandi centri di <br>scavo, per i monumenti architettonici ancora <br>esistenti in questo o quel paese, e infine per <br>l’immensa serie delle monete.</font><br>",
+          "text": "<font color=\"#000000\" face=\"Lato\">«Tutti i grandi Musei non solo d’Italia, ma <br>dell’Estero, anche di città moderne sorte in <br>territori fuori dell’Impero […], furono esplorati <br>a questo scopo; poi si passò alle principali <br>collezioni private, come le insigni dei Torlonia <br>a Roma; infine a tutte le piccole raccolte e alla <br>ricerca dei pezzi isolati, mentre naturalmente <br>uguale ricerca si compiva per i grandi centri di <br>scavo, per i monumenti architettonici ancora <br>esistenti in questo o quel paese, e infine per <br>l’immensa serie delle monete.»</font><br>",
           "selected": false
         },
         {
@@ -1903,7 +1907,7 @@
           },
           "type": "TextBox",
           "size": 36,
-          "text": "<font color=\"#000000\" face=\"Lato\">[…] essendo in ultima analisi il materiale a noi pervenuto quello <br>che il caso ha voluto conservare e far rinvenire, accade che di <br>un soggetto comune a tutto l’Impero la documentazione sia per <br>avventura restata in un sol caso, o che una testimonianza <br>trovata, per esempio, in Spagna, sia completata da un’altra <br>trovata in Romania, mentre un terzo pezzo trovato a Roma o a <br>Pompei serve per l’esatta interpretazione degli altri due. <br>Raggruppando questi pezzi in tal modo, si son venute a formare <br>sezioni omogenee, che possano appagare il desiderio di un <br>visitatore moderno dedito a questa o a quella professione, <br>cultore di questi o di quegli studi[…].&nbsp;</font><br>",
+          "text": "<font color=\"#000000\" face=\"Lato\">«[…] essendo in ultima analisi il materiale a noi pervenuto quello <br>che il caso ha voluto conservare e far rinvenire, accade che di <br>un soggetto comune a tutto l’Impero la documentazione sia per <br>avventura restata in un sol caso, o che una testimonianza <br>trovata, per esempio, in Spagna, sia completata da un’altra <br>trovata in Romania, mentre un terzo pezzo trovato a Roma o a <br>Pompei serve per l’esatta interpretazione degli altri due. <br>Raggruppando questi pezzi in tal modo, si son venute a formare <br>sezioni omogenee, che possano appagare il desiderio di un <br>visitatore moderno dedito a questa o a quella professione, <br>cultore di questi o di quegli studi[…]. »</font><br>",
           "selected": false
         },
         {
@@ -2337,8 +2341,8 @@
       "rotateY": 0,
       "rotateZ": -0.26,
       "index": 74,
-      "selected": true,
-      "active": true,
+      "selected": false,
+      "active": false,
       "x": 1391,
       "y": 1058
     },
@@ -2401,15 +2405,15 @@
       "components": [
         {
           "TextBox": {},
-          "x": 95,
-          "y": 165,
+          "x": 62,
+          "y": 154,
           "scale": {
             "x": 1,
             "y": 1
           },
           "type": "TextBox",
           "size": 64,
-          "text": "<font face=\"Lato\" color=\"#000000\">Due sono i pezzi che furono <br>scelti&nbsp;per interessameto del <br>Soprintendente alle Antichità <br>della Campania e del Molise <br>Amedeo Maiuri</font>",
+          "text": "<font face=\"Lato\" color=\"#000000\">Due sono i pezzi che furono <br>scelti&nbsp;per interessamento del <br>Soprintendente alle Antichità <br>della Campania e del Molise <br>Amedeo Maiuri e che vennero<br>esposte nella sala dell'ingegneria<br></font>",
           "selected": false
         }
       ],
@@ -2622,30 +2626,42 @@
   "activeSlide": {
     "components": [
       {
-        "src": "https://ar3d.github.io/mostra_augustea/immagini/sala_strade.jpg",
-        "type": "Image",
-        "x": 189,
-        "y": 2,
+        "TextBox": {},
+        "x": 44,
+        "y": 370,
         "scale": {
-          "x": 0.6644736842105263,
-          "y": 0.6644736842105263,
-          "width": 606,
-          "height": 765.4736842105264
+          "x": 1,
+          "y": 1
         },
-        "imageType": "JPG",
+        "type": "TextBox",
+        "size": 64,
+        "text": "<font face=\"Lato\" color=\"#000000\"><b>Mostra Augustea della Romanità</b></font>",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 92,
+        "y": 276,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 48,
+        "text": "<font face=\"Lato\" color=\"#000000\">23 settembre 1937 - 23 settembre 1938</font>",
         "selected": false
       }
     ],
     "z": 0,
-    "impScale": 3,
+    "impScale": 2,
     "rotateX": 0,
     "rotateY": 0,
-    "rotateZ": -0.26,
-    "index": 74,
+    "rotateZ": 0,
+    "index": 0,
     "selected": true,
     "active": true,
-    "x": 1391,
-    "y": 1058
+    "x": 167,
+    "y": 158
   },
   "fileName": "mostra_augustea",
   "deckVersion": "1.0",
