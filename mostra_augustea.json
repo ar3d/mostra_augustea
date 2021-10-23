@@ -178,7 +178,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font color=\"#000000\" face=\"Lato\">«La Mostra è veramente uno splendidissimo <br>corso di Storia Romana, tale che non ho potuto <br>mai fare agli studenti miei. <br>La combinazione di monumenti e testi dà <br>una vivida idea dello sviluppo di questo <br>fenomeno unico nel Mondo, che è la <br>formazione dell’Impero Romano.»</font><br>",
+          "text": "<font color=\"#000000\" face=\"Lato\">«La Mostra è veramente uno splendidissimo <br>corso di Storia Romana, tale che non ho potuto <br>mai fare agli studenti miei. <br>La combinazione di monumenti e testi dà <br>una vivida idea dello sviluppo di questo <br>fenomeno unico nel Mondo, che è la <br>formazione dell’Impero Romano».</font><br>",
           "selected": false
         },
         {
@@ -191,7 +191,7 @@
           },
           "type": "TextBox",
           "size": 24,
-          "text": "<font color=\"#000000\" face=\"Lato\">Michael I. Rostovtzef citato in G.Q. Giglioli, \"Mostra Augustea della Romanità. <br>Relazione Morale e Finanziaria (1932-1938)\", Roma 1942</font><br>",
+          "text": "<font color=\"#000000\" face=\"Lato\">Michael I. Rostovtzeff citato in G.Q. Giglioli, \"Mostra Augustea della Romanità. <br>Relazione Morale e Finanziaria (1932-1938)\", Roma 1942</font><br>",
           "selected": false
         }
       ],
@@ -250,15 +250,15 @@
       "components": [
         {
           "TextBox": {},
-          "x": 14,
+          "x": 2,
           "y": 18,
           "scale": {
             "x": 1,
             "y": 1
           },
           "type": "TextBox",
-          "size": 36,
-          "text": "<font color=\"#000000\" face=\"Lato\">«Disposizione varia, moderna, originale, quasi&nbsp;mai ingombrante, <br>sapientemente illuminata,&nbsp;o a giorno o dal basso, perfettamente <br>chiara e&nbsp;visibile in ogni suo punto. I monumenti si&nbsp;alternano con <br>le iscrizioni, le statue con i grandi&nbsp;fregi marmorei. Il tutto <br>commentato via via da&nbsp;scelte e precise leggende (sic), avvivato <br>da&nbsp;visioni fotografiche, diorami, fotomontaggi che&nbsp;ora integrano <br>il&nbsp;monumento, ora ne danno&nbsp;la cornice e lo sfondo. […].&nbsp;Non è la <br>mastodontica esposizione universale,&nbsp;impossibile a&nbsp;visitarsi [...]. <br>Si può percorrere in qualche ora, e tutti ne devono&nbsp;riportare una <br>somma di utili insegnamenti e in particolare una&nbsp;impressione <br>unitaria. Anche il dotto, l’archeologo di professione,&nbsp;che ha visto <br>tante volte queste cose nei libri, si prepari a gradite&nbsp;sorprese, a <br>colmare più di una lacuna insospettata; almeno&nbsp;riconoscerà che <br>altro è vedersi vivo e parlante dinanzi il&nbsp;monumento, riprodotto <br>con scrupolosa fedeltà, perché sia tutto&nbsp;alla sua portata, e altro <br>è averlo visto in pianta, in sezione, in alzati&nbsp;sopra la carta, magari <br>in fotografia a colori.&nbsp;</font><br>",
+          "size": 48,
+          "text": "<font color=\"#000000\" face=\"Lato\">«Disposizione varia, moderna, originale, quasi&nbsp;<br>mai ingombrante,&nbsp;sapientemente illuminata [...]. <br>I monumenti si&nbsp;alternano con&nbsp;le iscrizioni, le <br>statue con i grandi&nbsp;fregi marmorei. Il tutto <br>commentato via via da&nbsp;scelte e precise leggende <br>(sic), avvivato&nbsp;da&nbsp;visioni fotografiche, diorami, <br>fotomontaggi che&nbsp;ora integrano&nbsp;il&nbsp;monumento, <br>ora ne danno&nbsp;la cornice e lo sfondo. […].&nbsp;Non è la <br>mastodontica esposizione universale,&nbsp;impossibile <br>a&nbsp;visitarsi [...].&nbsp;Si può percorrere in qualche ora, e <br>tutti ne devono&nbsp;riportare una&nbsp;somma di utili <br>insegnamenti e in particolare una&nbsp;impressione <br>unitaria».</font><br>",
           "selected": false
         }
       ],
@@ -277,21 +277,21 @@
       "components": [
         {
           "TextBox": {},
-          "x": 36,
-          "y": 16,
+          "x": 9,
+          "y": 6,
           "scale": {
             "x": 1,
             "y": 1
           },
           "type": "TextBox",
-          "size": 36,
-          "text": "<font color=\"#000000\" face=\"Lato\">In ogni caso è un lusso che finora nessuno si era potuto <br>permettere, di vedersi adunati insieme, da ogni parte del <br>mondo, quei monumenti che si potessero fra loro paragonare <br>o dovessero fra loro illustrarsi. Tornerà dunque gradito a tutti <br>l’apprendere che è già stato disposto che questa grande opera <br>di documentazione scientifica non vada dispersa dopo il breve <br>servizio della mostra della Romanità, ma chiuso l’anno <br>bimillenario di Augusto, sia integralmente allogata in quel <br>palazzo che sarà il vero, compiuto, e perpetuo museo <br>dell’Impero Romano.»</font><br>",
+          "size": 48,
+          "text": "<font color=\"#000000\" face=\"Lato\">In ogni caso è un lusso che finora nessuno si era <br>potuto&nbsp;permettere, di vedersi adunati insieme, <br>da ogni parte del&nbsp;mondo, quei monumenti che si <br>potessero fra loro paragonare&nbsp;o dovessero fra <br>loro illustrarsi. Tornerà dunque gradito a tutti <br>l’apprendere che è già stato disposto che questa <br>grande opera&nbsp;di documentazione scientifica non <br>vada dispersa dopo il breve&nbsp;servizio della mostra <br>della Romanità, ma chiuso l’anno&nbsp;bimillenario di <br>Augusto, sia integralmente allogata in quel <br>palazzo che sarà il vero, compiuto, e perpetuo <br>museo&nbsp;dell’Impero Romano.»</font><br>",
           "selected": false
         },
         {
           "TextBox": {},
-          "x": 37,
-          "y": 478,
+          "x": 13,
+          "y": 714,
           "scale": {
             "x": 1,
             "y": 1
@@ -435,7 +435,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\" color=\"#000000\">Così Giulio Quirino Giglioli<br>descrive la nascita della <br>della Mostra Augustea <br>della Romanità in occasione <br>del bimillenario <br>della nascita di Augusto<br></font>",
+          "text": "<font face=\"Lato\" color=\"#000000\">Così Giulio Quirino Giglioli<br>descrive la nascita della <br>Mostra Augustea&nbsp;della <br>Romanità in occasione <br>del bimillenario <br>della nascita di Augusto<br></font>",
           "selected": false
         }
       ],
@@ -454,15 +454,15 @@
       "components": [
         {
           "TextBox": {},
-          "x": 42,
-          "y": 19,
+          "x": 44,
+          "y": 12,
           "scale": {
             "x": 1,
             "y": 1
           },
           "type": "TextBox",
-          "size": 36,
-          "text": "<font color=\"#000000\" face=\"Lato\">«Quando tre anni fa [nel 1930] ebbi l’onore di richiamare <br>per primo l’attenzione del Congresso di Studi Romani <br>sul bimillenario augusteo che si compirà il 23 settembre <br>1938, tra le varie manifestazioni da me proposte nell’ordine <br>del giorno che fu votato all’unanimità dal Congresso stesso <br>[…] non era compresa la Mostra Augustea della Romanità […]. <br>Fu solo in seguito che si concretò in me l’idea dell’importanza <br>singolare che una mostra della Romanità poteva assumere <br>in occasione del bimillenario della nascita del fondatore <br>dell’Impero e tale idea ebbi l’onore di manifestare a <br>S.E. il Capo del Governo in un’udienza che mi concedé <br>il 18 maggio dell’anno passato [1932]. Con la visione del <br>suo genio il Duce […] fece Sue le proposte invitandomi <br>a concretare il programma, […] pubblicato integralmente <br>nel comunicato alla stampa del 25 giugno 1932.»</font><br>",
+          "size": 42,
+          "text": "<font color=\"#000000\" face=\"Lato\">«[Nel 1930] ebbi l’onore di richiamare&nbsp;per primo <br>l’attenzione del Congresso di Studi Romani&nbsp;sul <br>bimillenario augusteo che si compirà il 23 <br>settembre&nbsp;1938 […].&nbsp;Fu solo in seguito che si <br>concretò in me l’idea dell’importanza&nbsp;singolare <br>che una mostra della Romanità poteva assumere <br>in occasione del bimillenario della nascita del <br>fondatore&nbsp;dell’Impero e tale idea ebbi l’onore di <br>manifestare a&nbsp;S.E. il Capo del Governo in <br>un’udienza che mi concedé&nbsp;il 18 maggio dell’anno <br>passato [1932]. Con la visione del&nbsp;suo genio il <br>Duce […] fece Sue le proposte invitandomi <br>a concretare il programma […]».</font><br>",
           "selected": false
         },
         {
@@ -549,21 +549,21 @@
       "components": [
         {
           "TextBox": {},
-          "x": 22,
-          "y": 11,
+          "x": 3,
+          "y": 8,
           "scale": {
             "x": 1,
             "y": 1
           },
           "type": "TextBox",
-          "size": 36,
-          "text": "<font color=\"#000000\" face=\"Lato\">[…] questa Mostra, se sarà naturalmente, come ha stabilito <br>il Duce, emanazione sia del Museo dell’Impero, sia dell’Istituto <br>degli Studi Romani, non costituirà un duplicato né della Mostra <br>del 1911, né del Museo dell’Impero che fondai nel 1926 per <br>raccogliere l’idea del Lanciani e del Boni, trasformandola <br>secondo i dettami della scienza moderna e le direttive del <br>Governo fascista […]. Tanto la Mostra del 1911 quanto il <br>Museo dell’Impero infatti sono ordinati geograficamente e <br>dopo i monumenti dell’Italia mostrano ad una ad una la serie <br>di tutte le province dell’Impero quali furono al momento del <br>suo maggior splendore, il 117 d.C., anno della morte di Trajano. <br>[…] Alla Mostra augustea invece […] l’Impero sarà una unità, <br>e tutte le province saranno presenti in ciascuna sezione, dando <br>ciascuna gli elementi per il quadro di ciascun aspetto della <br>vita antica.</font><br>",
+          "size": 48,
+          "text": "<font color=\"#000000\" face=\"Lato\">«[…] Tanto la Mostra del 1911 quanto il&nbsp;Museo <br>dell’Impero, infatti, sono ordinati <br>geograficamente&nbsp;e&nbsp;dopo i monumenti dell’Italia <br>mostrano ad una&nbsp;ad una la serie&nbsp;di tutte le <br>province dell’Impero&nbsp;quali furono al momento <br>del&nbsp;suo maggior&nbsp;splendore, il 117 d.C., anno della <br>morte di Trajano. <br>[…] Alla Mostra augustea invece […] l’Impero sarà <br>una unità,&nbsp;e tutte le province saranno presenti in <br>ciascuna sezione, dando&nbsp;ciascuna gli elementi per <br>il quadro di ciascun aspetto della&nbsp;vita antica».</font><br>",
           "selected": false
         },
         {
           "TextBox": {},
-          "x": 23,
-          "y": 682,
+          "x": 7,
+          "y": 683,
           "scale": {
             "x": 1,
             "y": 1
@@ -677,7 +677,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font color=\"#000000\" face=\"Lato\">Alcuni erano ferventi fascisti, e lo <br>rimasero&nbsp;anche dopo la guerra, <br>come&nbsp;Massimo Pallottino.&nbsp;</font><br>",
+          "text": "<font color=\"#000000\" face=\"Lato\">Alcuni erano ferventi fascisti, e lo <br>rimasero&nbsp;anche dopo la guerra.&nbsp;</font><br>",
           "selected": false
         }
       ],
@@ -704,7 +704,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font color=\"#000000\" face=\"Lato\">Qualcun altro, lo avrà fatto per <br>opportunismo accademico.</font><br>",
+          "text": "<font color=\"#000000\" face=\"Lato\">Qualcun altro lo avrà fatto per <br>opportunismo accademico.</font><br>",
           "selected": false
         }
       ],
@@ -893,7 +893,7 @@
           },
           "type": "TextBox",
           "size": 64,
-          "text": "<font face=\"Lato\" color=\"#000000\">La Mostra nasce nel momento <br>di massimo consenso del Regime<br>che, dopo il movimentismo <br>rivoluzionario,&nbsp;cerca la <br>normalizzazione&nbsp;attraverso l'uso <br>di nuovi simboli&nbsp;decontestualizzati <br>e piegate alle&nbsp;esigenze della <br>propaganda.<br></font>",
+          "text": "<font face=\"Lato\" color=\"#000000\">La Mostra nasce nel momento <br>di massimo consenso del Regime<br>che, dopo il movimentismo <br>rivoluzionario,&nbsp;cerca la <br>normalizzazione&nbsp;attraverso l'uso <br>di nuovi simboli&nbsp;decontestualizzati <br>e piegati alle&nbsp;esigenze della <br>propaganda.<br></font>",
           "selected": false
         }
       ],
@@ -1006,15 +1006,15 @@
         },
         {
           "TextBox": {},
-          "x": 45,
-          "y": 317,
+          "x": 26,
+          "y": 324,
           "scale": {
             "x": 1,
             "y": 1
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font color=\"#000000\" face=\"Lato\">L’estetizzazione della politica nella creazione <br>di eventi&nbsp;</font>spettacolari, con scenografie <br>magniloquenti, allo scopo di tenere le masse <br>in uno stato di continua&nbsp;effervescenza.<br>",
+          "text": "<font color=\"#000000\"><font face=\"Lato\">L’estetizzazione della politica nella creazione <br>di eventi&nbsp;</font>spettacolari con scenografie <br>magniloquenti serviva allo scopo di&nbsp; tenere <br>le masse&nbsp;in uno stato di continua&nbsp;effervescenza.</font><br>",
           "selected": false
         }
       ],
@@ -1033,15 +1033,15 @@
       "components": [
         {
           "TextBox": {},
-          "x": 46,
-          "y": 163,
+          "x": 9,
+          "y": 201,
           "scale": {
             "x": 1,
             "y": 1
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\" color=\"#000000\">Gli archeologi, assieme a un folto gruppo di<br>architetti, scenografi, fotografi e a quello di<br>quelle&nbsp;ditte&nbsp;che lavoravano per il cinema e <br>il teatro,&nbsp;soprattutto negli ambienti del piano <br>nobile, costruirono una potente macchina <br>scenica&nbsp;in cui l'impero fascista era la naturale <br>evoluzione&nbsp;dell'impero romano.&nbsp;<br></font>",
+          "text": "<font face=\"Lato\" color=\"#000000\">Gli archeologi, assieme a un folto gruppo di<br>architetti, scenografi, fotografi e alle&nbsp;ditte&nbsp;che <br>lavoravano per il cinema e&nbsp;il teatro,&nbsp;soprattutto <br>negli ambienti del piano&nbsp;nobile, costruirono una <br>potente macchina&nbsp;scenica&nbsp;in cui l'impero fascista <br>era la naturale&nbsp;evoluzione&nbsp;dell'impero romano.&nbsp;<br></font>",
           "selected": false
         }
       ],
@@ -1205,7 +1205,7 @@
           },
           "type": "TextBox",
           "size": 64,
-          "text": "<font face=\"Lato\" color=\"#000000\">Degli stessi architetti è anche <br>la sala dell'impero, un cannocchiale<br>prospettico che unisce visivamente<br>l'atrio della Vittoria dell'architetto<br>Gismondi alla sala di Augusto.<br></font>",
+          "text": "<font face=\"Lato\" color=\"#000000\">Degli stessi architetti è anche <br>la sala dell'Impero, un cannocchiale<br>prospettico che unisce visivamente<br>l'atrio della Vittoria dell'architetto<br>Gismondi alla sala di Augusto.<br></font>",
           "selected": false
         }
       ],
@@ -1454,7 +1454,7 @@
           },
           "type": "TextBox",
           "size": 64,
-          "text": "<font face=\"Lato\" color=\"#000000\">Una impostazione più innovativa <br>presentava&nbsp;la sala delle origini di <br>Roma, la prima del percorso a tema<br>storico.<br>Allestita da&nbsp;Veniero Colasanti <br>e Ludovico Quaroni giocava&nbsp;<br>sul confronto tra le legende della&nbsp;<br>fondazione di Roma e la verità<br>storica dei dati archeologici.<br></font>",
+          "text": "<font face=\"Lato\" color=\"#000000\">Una impostazione più innovativa <br>presentava&nbsp;la sala delle origini di <br>Roma, la prima del percorso a tema<br>storico.<br>Allestita da&nbsp;Veniero Colasanti <br>e Ludovico Quaroni giocava&nbsp;<br>sul confronto tra le leggende della&nbsp;<br>fondazione di Roma e la verità<br>storica dei dati archeologici.<br></font>",
           "selected": false
         }
       ],
@@ -1659,7 +1659,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\" color=\"#000000\">La prima scelta che Giglioli dovette&nbsp;fare fu<br>quella di esporre originali o&nbsp;copie.&nbsp;<br>Vista l'impossibilità di «far giungere&nbsp;a Roma <br>centinaia di tonnellate di&nbsp;pietra» si optò per la <br>produzione&nbsp;di calchi, plastici e riproduzioni&nbsp;<br>anche perchè questo materiale&nbsp;sarebbe <br>diventato proprietà dello&nbsp;stato italiano.<br></font>",
+          "text": "<font face=\"Lato\" color=\"#000000\">La prima scelta che Giglioli dovette&nbsp;fare fu<br>quella di esporre originali o&nbsp;copie.&nbsp;<br>Vista l'impossibilità di «far giungere&nbsp;a Roma <br>centinaia di tonnellate di&nbsp;pietra» si optò per la <br>produzione&nbsp;di calchi, plastici e riproduzioni,&nbsp;<br>anche perchè questo materiale&nbsp;sarebbe <br>diventato proprietà dello&nbsp;stato italiano.<br></font>",
           "selected": false
         }
       ],
@@ -1932,8 +1932,8 @@
       "index": 61,
       "selected": false,
       "active": false,
-      "x": 1460,
-      "y": 1212
+      "x": 1556,
+      "y": 1221
     },
     {
       "components": [
@@ -1986,8 +1986,8 @@
       "index": 62,
       "selected": false,
       "active": false,
-      "x": 1519,
-      "y": 1265
+      "x": 1534,
+      "y": 1259
     },
     {
       "components": [
@@ -2040,8 +2040,8 @@
       "index": 63,
       "selected": false,
       "active": false,
-      "x": 1444,
-      "y": 1495
+      "x": 1440,
+      "y": 1513
     },
     {
       "components": [
@@ -2468,7 +2468,7 @@
           },
           "type": "TextBox",
           "size": 64,
-          "text": "<font face=\"Lato\" color=\"#000000\">La ricostruzione della ruota <br>idraulica di Venafro<br>efeguita da Luigi Jacono<br></font>",
+          "text": "<font face=\"Lato\" color=\"#000000\">La ricostruzione della ruota <br>idraulica di Venafro<br>eseguita da Luigi Jacono<br></font>",
           "selected": false
         }
       ],
@@ -2669,5 +2669,5 @@
     "bgs": []
   },
   "overviewX": 1288,
-  "overviewY": 825.5
+  "overviewY": 834.5
 }
