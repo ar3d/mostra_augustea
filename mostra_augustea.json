@@ -35,7 +35,7 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 0,
-      "selected": true,
+      "selected": false,
       "active": true,
       "x": 167,
       "y": 158
@@ -218,7 +218,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font color=\"#000000\" face=\"Lato\">«È veramente una rievocazione fatta in modo <br>magistrale della romanità in tante sue <br>manifestazioni. […]. <br>Sono sicuro che la Mostra apporterà un <br>contributo assai apprezzabile nella cultura <br>di tutti i popoli che da Roma più o meno <br>direttamente ed in più o meno larga misura <br>trassero la loro civiltà».</font><br>",
+          "text": "<font color=\"#000000\" face=\"Lato\">«È veramente una rievocazione fatta in modo <br>magistrale della romanità in tante sue <br>manifestazioni […]. <br>Sono sicuro che la Mostra apporterà un <br>contributo assai apprezzabile nella cultura <br>di tutti i popoli che da Roma più o meno <br>direttamente ed in più o meno larga misura <br>trassero la loro civiltà».</font><br>",
           "selected": false
         },
         {
@@ -258,7 +258,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font color=\"#000000\" face=\"Lato\">«Disposizione varia, moderna, originale, quasi&nbsp;<br>mai ingombrante,&nbsp;sapientemente illuminata [...]. <br>I monumenti si&nbsp;alternano con&nbsp;le iscrizioni, le <br>statue con i grandi&nbsp;fregi marmorei. Il tutto <br>commentato via via da&nbsp;scelte e precise leggende <br>(sic), avvivato&nbsp;da&nbsp;visioni fotografiche, diorami, <br>fotomontaggi che&nbsp;ora integrano&nbsp;il&nbsp;monumento, <br>ora ne danno&nbsp;la cornice e lo sfondo. […].&nbsp;Non è la <br>mastodontica esposizione universale,&nbsp;impossibile <br>a&nbsp;visitarsi [...].&nbsp;Si può percorrere in qualche ora, e <br>tutti ne devono&nbsp;riportare una&nbsp;somma di utili <br>insegnamenti e in particolare una&nbsp;impressione <br>unitaria».</font><br>",
+          "text": "<font color=\"#000000\" face=\"Lato\">«Disposizione varia, moderna, originale, quasi&nbsp;<br>mai ingombrante,&nbsp;sapientemente illuminata [...]. <br>I monumenti si&nbsp;alternano con&nbsp;le iscrizioni, le <br>statue con i grandi&nbsp;fregi marmorei. Il tutto <br>commentato via via da&nbsp;scelte e precise leggende <br>(sic), avvivato&nbsp;da&nbsp;visioni fotografiche, diorami, <br>fotomontaggi che&nbsp;ora integrano&nbsp;il&nbsp;monumento, <br>ora ne danno&nbsp;la cornice e lo sfondo […].&nbsp;Non è la <br>mastodontica esposizione universale,&nbsp;impossibile <br>a&nbsp;visitarsi [...].&nbsp;Si può percorrere in qualche ora, e <br>tutti ne devono&nbsp;riportare una&nbsp;somma di utili <br>insegnamenti e in particolare una&nbsp;impressione <br>unitaria».</font><br>",
           "selected": false
         }
       ],
@@ -502,7 +502,7 @@
           },
           "type": "TextBox",
           "size": 36,
-          "text": "<font color=\"#000000\" face=\"Lato\">[...]l’ordine del Duce e la nostra intenzione <br>È DI FARE UNA MOSTRA NON UN’ESPOSIZIONE: <br>quindi, […] non una raccolta del maggior numero di <br>oggetti […];&nbsp;ma appunto una Mostra […], come è quella <br>della Rivoluzione Fascista che tutti avrete visitato, <br>uscendone tutti pieni di ammirazione e — diciamolo <br>altamente — di profonda commozione […].&nbsp;</font><br>",
+          "text": "<font color=\"#000000\" face=\"Lato\">[...] l’ordine del Duce e la nostra intenzione <br>È DI FARE UNA MOSTRA NON UN’ESPOSIZIONE: <br>quindi, […] non una raccolta del maggior numero di <br>oggetti […];&nbsp;ma appunto una Mostra […], come è quella <br>della Rivoluzione Fascista che tutti avrete visitato, <br>uscendone tutti pieni di ammirazione e - diciamolo <br>altamente - di profonda commozione […].&nbsp;</font><br>",
           "selected": false
         }
       ],
@@ -704,7 +704,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font color=\"#000000\" face=\"Lato\">Qualcun altro lo avrà fatto per <br>opportunismo accademico.</font><br>",
+          "text": "<font color=\"#000000\" face=\"Lato\">Qualcun altro lo fece per <br>opportunismo accademico.</font><br>",
           "selected": false
         }
       ],
@@ -893,7 +893,7 @@
           },
           "type": "TextBox",
           "size": 64,
-          "text": "<font face=\"Lato\" color=\"#000000\">La Mostra nasce nel momento <br>di massimo consenso del Regime<br>che, dopo il movimentismo <br>rivoluzionario,&nbsp;cerca la <br>normalizzazione&nbsp;attraverso l'uso <br>di nuovi simboli&nbsp;decontestualizzati <br>e piegati alle&nbsp;esigenze della <br>propaganda.<br></font>",
+          "text": "<font face=\"Lato\" color=\"#000000\">La Mostra nasce nel momento <br>di massimo consenso del Regime<br>che, dopo il movimentismo <br>rivoluzionario,&nbsp;cerca la <br>normalizzazione&nbsp;attraverso l'uso <br>di simboli&nbsp;decontestualizzati <br>e piegati alle&nbsp;esigenze della <br>propaganda.<br></font>",
           "selected": false
         }
       ],
@@ -1509,7 +1509,7 @@
           },
           "type": "TextBox",
           "size": 64,
-          "text": "<font face=\"Lato\" color=\"#000000\">Quinta scenica degli eventi pubblici <br>legati alla mostra era la facciata&nbsp;<br>effimera dell'architetto Scalpelli<br>che con linea semplici e <br>giustapposizione di volumi <br>semplifica il modello dell'Arco di<br>Costantino.<br></font>",
+          "text": "<font face=\"Lato\" color=\"#000000\">Quinta scenica degli eventi pubblici <br>legati alla mostra era la facciata&nbsp;<br>effimera dell'architetto Scalpelli<br>che con linee semplici e <br>giustapposizione di volumi <br>semplifica il modello dell'Arco di<br>Costantino.<br></font>",
           "selected": false
         }
       ],
@@ -1784,7 +1784,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font color=\"#000000\" face=\"Lato\">«Tutti i grandi Musei non solo d’Italia, ma <br>dell’Estero, anche di città moderne sorte in <br>territori fuori dell’Impero […], furono esplorati <br>a questo scopo; poi si passò alle principali <br>collezioni private, come le insigni dei Torlonia <br>a Roma; infine a tutte le piccole raccolte e alla <br>ricerca dei pezzi isolati, mentre naturalmente <br>uguale ricerca si compiva per i grandi centri di <br>scavo, per i monumenti architettonici ancora <br>esistenti in questo o quel paese, e infine per <br>l’immensa serie delle monete.»</font><br>",
+          "text": "<font color=\"#000000\" face=\"Lato\">«Tutti i grandi Musei non solo d’Italia, ma <br>dell’Estero, anche di città moderne sorte in <br>territori fuori dell’Impero […], furono esplorati <br>a questo scopo; poi si passò alle principali <br>collezioni private, come le insigni dei Torlonia <br>a Roma; infine a tutte le piccole raccolte e alla <br>ricerca dei pezzi isolati, mentre naturalmente <br>uguale ricerca si compiva per i grandi centri di <br>scavo, per i monumenti architettonici ancora <br>esistenti in questo o quel paese, e infine per <br>l’immensa serie delle monete».</font><br>",
           "selected": false
         },
         {
@@ -1907,7 +1907,7 @@
           },
           "type": "TextBox",
           "size": 36,
-          "text": "<font color=\"#000000\" face=\"Lato\">«[…] essendo in ultima analisi il materiale a noi pervenuto quello <br>che il caso ha voluto conservare e far rinvenire, accade che di <br>un soggetto comune a tutto l’Impero la documentazione sia per <br>avventura restata in un sol caso, o che una testimonianza <br>trovata, per esempio, in Spagna, sia completata da un’altra <br>trovata in Romania, mentre un terzo pezzo trovato a Roma o a <br>Pompei serve per l’esatta interpretazione degli altri due. <br>Raggruppando questi pezzi in tal modo, si son venute a formare <br>sezioni omogenee, che possano appagare il desiderio di un <br>visitatore moderno dedito a questa o a quella professione, <br>cultore di questi o di quegli studi[…]. »</font><br>",
+          "text": "<font color=\"#000000\" face=\"Lato\">«[…] essendo in ultima analisi il materiale a noi pervenuto quello <br>che il caso ha voluto conservare e far rinvenire, accade che di <br>un soggetto comune a tutto l’Impero la documentazione sia per <br>avventura restata in un sol caso, o che una testimonianza <br>trovata, per esempio, in Spagna, sia completata da un’altra <br>trovata in Romania, mentre un terzo pezzo trovato a Roma o a <br>Pompei serve per l’esatta interpretazione degli altri due. <br>Raggruppando questi pezzi in tal modo, si son venute a formare <br>sezioni omogenee, che possano appagare il desiderio di un <br>visitatore moderno dedito a questa o a quella professione, <br>cultore di questi o di quegli studi[…]».</font><br>",
           "selected": false
         },
         {
@@ -2658,7 +2658,7 @@
     "rotateY": 0,
     "rotateZ": 0,
     "index": 0,
-    "selected": true,
+    "selected": false,
     "active": true,
     "x": 167,
     "y": 158
